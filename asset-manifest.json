@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/cryptoinfo/static/js/main.aa647b0f.js",
+    "static/js/75.959f0879.chunk.js": "/cryptoinfo/static/js/75.959f0879.chunk.js",
+    "static/js/768.ba1adb64.chunk.js": "/cryptoinfo/static/js/768.ba1adb64.chunk.js",
+    "static/js/64.0e810f1c.chunk.js": "/cryptoinfo/static/js/64.0e810f1c.chunk.js",
+    "static/js/680.4da5aed8.chunk.js": "/cryptoinfo/static/js/680.4da5aed8.chunk.js",
+    "static/js/554.d1fbc76c.chunk.js": "/cryptoinfo/static/js/554.d1fbc76c.chunk.js",
+    "static/js/719.347e2481.chunk.js": "/cryptoinfo/static/js/719.347e2481.chunk.js",
+    "static/js/240.5deec051.chunk.js": "/cryptoinfo/static/js/240.5deec051.chunk.js",
+    "static/js/762.9287ee35.chunk.js": "/cryptoinfo/static/js/762.9287ee35.chunk.js",
+    "index.html": "/cryptoinfo/index.html",
+    "main.aa647b0f.js.map": "/cryptoinfo/static/js/main.aa647b0f.js.map",
+    "75.959f0879.chunk.js.map": "/cryptoinfo/static/js/75.959f0879.chunk.js.map",
+    "768.ba1adb64.chunk.js.map": "/cryptoinfo/static/js/768.ba1adb64.chunk.js.map",
+    "64.0e810f1c.chunk.js.map": "/cryptoinfo/static/js/64.0e810f1c.chunk.js.map",
+    "680.4da5aed8.chunk.js.map": "/cryptoinfo/static/js/680.4da5aed8.chunk.js.map",
+    "554.d1fbc76c.chunk.js.map": "/cryptoinfo/static/js/554.d1fbc76c.chunk.js.map",
+    "719.347e2481.chunk.js.map": "/cryptoinfo/static/js/719.347e2481.chunk.js.map",
+    "240.5deec051.chunk.js.map": "/cryptoinfo/static/js/240.5deec051.chunk.js.map",
+    "762.9287ee35.chunk.js.map": "/cryptoinfo/static/js/762.9287ee35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aa647b0f.js"
+  ]
+}
