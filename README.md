@@ -1,6 +1,6 @@
 # CryptaInfo
 
-#### Стэк: React 18 (use func component, hooks, lazy loading, codesplitting), typescript, react-router (v6), redux-toolkit, react-error-boundary, react-helmet-async, Material-UI, axios, scss, prettier, eslint (airbnb config).Стэк: React 18 (use func component, hooks, lazy loading, codesplitting), typescript, react-router (v6), redux-toolkit, react-error-boundary, react-helmet-async, Material-UI, axios, scss, prettier, eslint (airbnb config).
+#### Стэк: React 18 (use func component, hooks, lazy loading, codesplitting), typescript, react-router (v6), redux-toolkit, react-error-boundary, react-helmet-async, Material-UI, axios, scss, prettier, eslint (airbnb config).
 
 ##### Сайт  имеет две страницы:
 
