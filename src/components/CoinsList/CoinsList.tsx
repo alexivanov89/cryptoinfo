@@ -51,7 +51,13 @@ const CoinsList = () => {
               </TableRow>
             </TableHead>
             <TableBody>
-              {!coins && <div>Not Coins</div>}
+              {!coins && (
+                <tr>
+                  <td>
+                    <div>Not Coins</div>
+                  </td>
+                </tr>
+              )}
               {!!coins &&
                 coins.length > 0 &&
                 coins

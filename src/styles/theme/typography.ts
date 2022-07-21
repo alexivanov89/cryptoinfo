@@ -24,7 +24,7 @@ const responsiveFontSizes = ({
   };
 };
 
-const FONT_PRIMARY = 'Public Sans, sans-serif';
+const FONT_PRIMARY = 'Roboto, sans-serif';
 
 export const typography = {
   fontFamily: FONT_PRIMARY,

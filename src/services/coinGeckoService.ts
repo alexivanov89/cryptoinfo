@@ -7,4 +7,9 @@ export const coinGeckoService = {
       config,
     ),
   getCoin: (id: string, config = {}) => coinGeckoApi.get(`coins/${id}`, config),
+  getChart: (id: string, days = 365, config = {}) =>
+    coinGeckoApi.get(
+      `coins/${id}/market_chart?vs_currency=usd&days=${days}`,
+      config,
+    ),
 };
